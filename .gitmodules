@@ -1,0 +1,6 @@
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/devSaifur/dashboard.git
+[submodule "store"]
+	path = store
+	url = https://github.com/devSaifur/store.git
